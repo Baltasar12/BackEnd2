@@ -1,0 +1,2 @@
+Me parece más comodo EJS ya que se escribe de forma más "natural" HTML.
+Con pug puede llegar a ser más confuso por el tema de las de las tabulaciones y de la forma en la que se ecribe 
