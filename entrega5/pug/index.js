@@ -8,8 +8,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use("/", express.static(__dirname + "/public"));
 const routerGlobal = express.Router();
 
-app.set("view engine", "pug");
 app.set("views", "./views");
+app.set("view engine", "pug");
 
 routerGlobal.get("/", (req, res) => {
   res.render("formulario");

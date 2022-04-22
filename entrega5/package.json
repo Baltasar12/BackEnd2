@@ -1,6 +1,16 @@
 {
+  "name": "entrega5",
+  "version": "1.0.0",
+  "description": "pug y ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baltasar",
+  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.7",
+    "express": "^4.17.3",
     "pug": "^3.0.2"
   }
 }
