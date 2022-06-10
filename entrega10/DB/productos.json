@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Globo terraqueo",
+      "price": "1500",
+      "thumbnail": "",
+      "id": 1
+    },
+    {
+      "title": "Resaltadores bic",
+      "price": "500",
+      "thumbnail": "",
+      "id": 2
+    },
+    {
+      "title": "Lapiceras bic",
+      "price": "200",
+      "thumbnail": "",
+      "id": 3
+    }
+  ]
